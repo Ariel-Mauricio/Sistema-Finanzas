@@ -1,0 +1,13 @@
+{
+  "phpVersion": "8.2",
+  "analysisLevel": 4,
+  "typeCheckingMode": "basic",
+  "stubsPath": ["./vendor"],
+  "reportMissingPhpDocReturn": false,
+  "reportMissingPhpDocParam": false,
+  "reportUndefinedFunctions": false,
+  "reportUndefinedTypes": false,
+  "reportUndefinedVariables": false,
+  "reportUndefinedMethods": false,
+  "suppressNotNullAssertions": true
+}
